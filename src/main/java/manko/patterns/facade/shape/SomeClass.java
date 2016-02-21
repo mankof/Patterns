@@ -5,4 +5,5 @@ package manko.patterns.facade.shape;
  */
 public class SomeClass {
     public int counter=0;
+    public String str;
 }
