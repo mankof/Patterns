@@ -6,4 +6,9 @@ package manko.patterns.facade.shape;
 public class SomeClass {
     public int counter=0;
     public String str;
+
+    public SomeClass(int counter, String str) {
+        this.counter = counter;
+        this.str = str;
+    }
 }
